@@ -4,10 +4,10 @@
 <br>
 <br>
 <h2>Tecnologias usadas</h2>
-<p>HTML</p>
-<p>CSS</p>
-<p>JavaScript</p>
+<p>-HTML</p>
+<p>-CSS</p>
+<p>-JavaScript</p>
 <br>
 <img src="./assets/main-page.png"/>
 <br>
-<p>Gere seus codigos CSS com um click</p>
+<p>-Gere seus codigos CSS com um click</p>
